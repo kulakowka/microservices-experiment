@@ -1,0 +1,17 @@
+{
+  "name": "microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serviceA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "morgan": "^1.6.1",
+    "request": "^2.67.0"
+  }
+}
