@@ -11,7 +11,7 @@ npm install
 Start service A in new terminal window:
 
 ```
-node --harmony serviceA.js
+npm run serviceA
 ```
 
 ## Service B
@@ -19,7 +19,7 @@ node --harmony serviceA.js
 Start service B in new terminal window:
 
 ```
-node --harmony serviceB.js
+npm run serviceB
 ```
 
 ## Service C
@@ -27,7 +27,7 @@ node --harmony serviceB.js
 Start service C in new terminal window:
 
 ```
-node --harmony serviceC.js
+npm run serviceC
 ```
 
 ### Open in your browser [localhost:3001](http://localhost:3001)

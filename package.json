@@ -1,9 +1,12 @@
 {
-  "name": "microservice",
+  "name": "microservices-experiment",
   "version": "1.0.0",
   "description": "",
   "main": "serviceA.js",
   "scripts": {
+    "serviceA": "node serviceA.js --harmony",
+    "serviceB": "node serviceB.js --harmony",
+    "serviceC": "node serviceC.js --harmony",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
